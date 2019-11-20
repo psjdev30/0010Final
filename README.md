@@ -10,7 +10,7 @@
 * **Name:** Prateek Jukalkar
 	* **Email:** psj4@pitt.edu
 * **Name:** Rachel Puckett
-	* **Email:**
+	* **Email:** rmp86@pitt.edu
 
 ### Datasets Used:
 * **Name:** Pittsburgh Police Arrest Data
