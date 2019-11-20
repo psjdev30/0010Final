@@ -13,10 +13,10 @@
 	* **Email:**
 
 ### Datasets Used:
-* **Name:** 
-	* **Filename:** PPAD.csv
-* **Name:**
+* **Name:** Pittsburgh Police Arrest Data
+	* **Filename:** PPAD.csv 
+* **Name:** Educational Attainment for the Population 25 and Over
 	* **Filename:** eduAttainment.csv
-* **Name:**
+* **Name:** Total Population 
 	* **Filename:** totalPopulation.csv
 
