@@ -1,4 +1,6 @@
-# 0010Final
+# CMPINF 0010 Final Project
+
+##Group #1 A.K.A ""
 
 ### Group Members:
 * **Name:** Luke Repasky
