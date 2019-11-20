@@ -1,6 +1,6 @@
 # CMPINF 0010 Final Project
 
-## Group #1 A.K.A *"<Insert Group Name Here>"*
+## Group No. 1 A.K.A *"<Insert Group Name Here>"*
 
 ### Group Members:
 * **Name:** Luke Repasky
